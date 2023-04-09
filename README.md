@@ -1,5 +1,6 @@
 # LSTM-for-stock-price-volatility-detection
-Stock Price Volatility Detection using LSTM
+Volatility plays crucial roles in financial markets, such as in derivative pricing, portfolio risk management, and hedging strategies. Therefore, accurate prediction of volatility is critical.
+
 
 ## Performance:
 <p align="center">
