@@ -1,6 +1,8 @@
 # LSTM-for-stock-price-volatility-detection
 Volatility plays crucial roles in financial markets, such as in derivative pricing, portfolio risk management, and hedging strategies. Therefore, accurate prediction of volatility is critical.
 
+We will be utilizing a comprehensive data set comprising bitcoin price fluctuations across various timeframes. This data will be divided into distinct buckets and inputted into a Recurrent Neural Network (RNN)
+
 
 ## Performance:
 <p align="center">
