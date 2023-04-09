@@ -10,9 +10,8 @@ Market Volatility Detection using LSTM
 
 ## Example:
 
-![result1](https://github.com/6amir6hosein6/LSTM-for-stock-price-volatility-detection/blob/main/result/000-Bitcoin-example.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![][(https://...Dark.png](https://github.com/6amir6hosein6/LSTM-for-stock-price-volatility-detection/blob/main/result/000-Bitcoin-example.png))  |  ![]([https://...Ocean.png](https://github.com/6amir6hosein6/LSTM-for-stock-price-volatility-detection/blob/main/result/002-Bitcoin-example.png))
 
-![result1](https://github.com/6amir6hosein6/LSTM-for-stock-price-volatility-detection/blob/main/result/001-Bitcoin-example.png)
-
-![result1](https://github.com/6amir6hosein6/LSTM-for-stock-price-volatility-detection/blob/main/result/002-Bitcoin-example.png)
 
