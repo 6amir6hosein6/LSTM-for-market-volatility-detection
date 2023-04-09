@@ -1,5 +1,5 @@
 # LSTM-for-stock-price-volatility-detection
-Market Volatility Detection using LSTM
+Stock Price Volatility Detection using LSTM
 
 ## Performance:
 <p align="center">
